@@ -1,0 +1,10 @@
+: CREATING A TEST IMPORTANT FILE...  -> (15:03:53)
+1: Backup in progress, please wait...  -> (15:03:54)
+2: ..
+3: Compressing the backup directory...  -> (15:03:55)
+4: Cleaning up...  -> (15:03:55)
+5: REMOVING THE TEST IMPORTANT FILE...  -> (15:03:56)
+6: Backing up done!!  -> (15:03:57)
+7: DONE WITH One ✅ ...  -> (15:03:57)
+8: ..
+9: ..
